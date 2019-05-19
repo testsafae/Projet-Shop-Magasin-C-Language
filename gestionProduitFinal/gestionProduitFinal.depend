@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558223278 source:c:\users\safae\desktop\gestionproduitfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
